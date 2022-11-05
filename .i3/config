@@ -163,4 +163,5 @@ exec --no-startup-id xautolock -time 5 -locker "i3lock -c 000000"
 for_window [window_role="pop-up"] floating enable
 for_window [class="vlc"] floating enable
 for_window [title="Animview.*"] floating enable
+for_window [title="myc64-sim"] floating enable
 

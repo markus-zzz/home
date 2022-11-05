@@ -12,3 +12,7 @@ keysym k = k K Up NoSymbol NoSymbol NoSymbol
 keysym l = l L Right NoSymbol lstroke Lstroke
 
 keysym Menu = Super_R
+
+keycode  34 = bracketleft braceleft aring Aring
+keycode  47 = semicolon colon odiaeresis Odiaeresis
+keycode  48 = apostrophe quotedbl adiaeresis Adiaeresis
